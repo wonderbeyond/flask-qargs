@@ -5,6 +5,10 @@ Flask Query Args Parser, using view decorators.
 
 ---
 
+```shell
+$ pip install flask-qargs
+```
+
 ```python
 from flask import Flask, g
 import flask_qargs as qargs
