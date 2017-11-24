@@ -1,0 +1,15 @@
+from setuptools import setup, find_packages
+
+
+setup(
+    name='Flask-QArgs',
+    version='0.0.1',
+    description='Flask Query Args Parser, using view decorators.',
+    author='Wonder',
+    author_email='wonderbeyond@gmail.com',
+    url='https://www.github.com/wonderbeyond/flask-qargs',
+    packages=find_packages(exclude=['contrib', 'docs', 'tests']),
+    install_requires=[
+        'Flask-RESTful~=0.3.6',
+    ],
+)
