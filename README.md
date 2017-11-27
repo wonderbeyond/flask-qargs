@@ -1,7 +1,7 @@
 Flask-QArgs
 ===========
 
-Flask Query Args Parser, using view decorators.
+Flask Query Arguments Parser, as your view decorators.
 
 ---
 

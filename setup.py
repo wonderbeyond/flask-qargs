@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='Flask-QArgs',
     version='0.0.1',
-    description='Flask Query Args Parser, using view decorators.',
+    description='Flask Query Arguments Parser, as your view decorators.',
     author='Wonder',
     author_email='wonderbeyond@gmail.com',
     url='https://www.github.com/wonderbeyond/flask-qargs',
