@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Flask-QArgs',
-    version='0.0.1',
+    version='0.0.2',
     description='Flask Query Arguments Parser, as your view decorators.',
     author='Wonder',
     author_email='wonderbeyond@gmail.com',
